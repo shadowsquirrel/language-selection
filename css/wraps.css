@@ -51,6 +51,7 @@
 /* text wrap */
 .tWrap
 {
+    font-size:1rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
