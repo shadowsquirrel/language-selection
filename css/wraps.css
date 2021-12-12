@@ -47,8 +47,8 @@
     display:flex;
     flex-direction:row;
     justify-content: flex-start;
-    width:110%;
-    padding-left:5%;
+    width:120%;
+    padding-left:13%;
     padding-top:10%;
     padding-bottom:10%;
     transition:0.05s;
@@ -74,13 +74,13 @@
 }
 .flag
 {
-    height:6vh;
+    height:5vh;
 }
 
 /*---- text wrap ----*/
 .tWrap
 {
-    font-size:3vh;
+    font-size:2.5vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
