@@ -3,7 +3,7 @@ window.onload = function() {
     // var node = parent.node;
 
 
-    $('#turkey').click(function() {
+    $('#turkey').click(function(event) {
 
         console.log('turkish');
 
@@ -26,6 +26,8 @@ window.onload = function() {
         console.log('spain');
 
     })
+
+
 
 //
 
