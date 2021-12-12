@@ -35,6 +35,8 @@
     box-shadow: 0px 3px 4px 2px black;
     background-color: black;
     color:white;
+    transform-origin: center;
+    transform:scale(1.1);
 }
 .lWrap:active
 {
